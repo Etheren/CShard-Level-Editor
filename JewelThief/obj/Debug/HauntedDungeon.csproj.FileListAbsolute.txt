@@ -1,0 +1,16 @@
+C:\Users\14040859\Downloads\ToolDev\WizardDungeon\HauntedDungeon\JewelThief\bin\Debug\JewelThief.exe.config
+C:\Users\14040859\Downloads\ToolDev\WizardDungeon\HauntedDungeon\JewelThief\obj\Debug\JewelThief.exe
+C:\Users\14040859\Downloads\ToolDev\WizardDungeon\HauntedDungeon\JewelThief\obj\Debug\JewelThief.pdb
+C:\Users\14040859\Downloads\ToolDev\WizardDungeon\HauntedDungeon\JewelThief\obj\Debug\HauntedDungeon.csprojResolveAssemblyReference.cache
+C:\Users\14040859\Downloads\ToolDev\WizardDungeon\HauntedDungeon\JewelThief\obj\Debug\MainWindow.g.cs
+C:\Users\14040859\Downloads\ToolDev\WizardDungeon\HauntedDungeon\JewelThief\obj\Debug\App.g.cs
+C:\Users\14040859\Downloads\ToolDev\WizardDungeon\HauntedDungeon\JewelThief\obj\Debug\JewelThief_MarkupCompile.cache
+C:\Users\14040859\Downloads\ToolDev\WizardDungeon\HauntedDungeon\JewelThief\obj\Debug\JewelThief_MarkupCompile.lref
+C:\Users\CJ\Desktop\ToolDevNew\ToolDev\WizardDungeon\HauntedDungeon\JewelThief\bin\Debug\JewelThief.exe.config
+C:\Users\CJ\Desktop\ToolDevNew\ToolDev\WizardDungeon\HauntedDungeon\JewelThief\obj\Debug\JewelThief.exe
+C:\Users\CJ\Desktop\ToolDevNew\ToolDev\WizardDungeon\HauntedDungeon\JewelThief\obj\Debug\JewelThief.pdb
+C:\Users\CJ\Desktop\ToolDevNew\ToolDev\WizardDungeon\HauntedDungeon\JewelThief\obj\Debug\HauntedDungeon.csprojResolveAssemblyReference.cache
+C:\Users\CJ\Desktop\ToolDevNew\ToolDev\WizardDungeon\HauntedDungeon\JewelThief\obj\Debug\MainWindow.g.cs
+C:\Users\CJ\Desktop\ToolDevNew\ToolDev\WizardDungeon\HauntedDungeon\JewelThief\obj\Debug\App.g.cs
+C:\Users\CJ\Desktop\ToolDevNew\ToolDev\WizardDungeon\HauntedDungeon\JewelThief\obj\Debug\JewelThief_MarkupCompile.cache
+C:\Users\CJ\Desktop\ToolDevNew\ToolDev\WizardDungeon\HauntedDungeon\JewelThief\obj\Debug\JewelThief_MarkupCompile.lref

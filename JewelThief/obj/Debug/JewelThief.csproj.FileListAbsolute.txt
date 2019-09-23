@@ -1,0 +1,56 @@
+c:\users\bdaubney\documents\visual studio 2015\Projects\JewelThief\JewelThief\bin\Debug\JewelThief.exe.config
+c:\users\bdaubney\documents\visual studio 2015\Projects\JewelThief\JewelThief\obj\Debug\JewelThief.csprojResolveAssemblyReference.cache
+c:\users\bdaubney\documents\visual studio 2015\Projects\JewelThief\JewelThief\obj\Debug\MainWindow.g.cs
+c:\users\bdaubney\documents\visual studio 2015\Projects\JewelThief\JewelThief\obj\Debug\App.g.cs
+c:\users\bdaubney\documents\visual studio 2015\Projects\JewelThief\JewelThief\obj\Debug\JewelThief_MarkupCompile.cache
+c:\users\bdaubney\documents\visual studio 2015\Projects\JewelThief\JewelThief\obj\Debug\JewelThief_MarkupCompile.lref
+c:\users\bdaubney\documents\visual studio 2015\Projects\JewelThief\JewelThief\bin\Debug\JewelThief.exe
+c:\users\bdaubney\documents\visual studio 2015\Projects\JewelThief\JewelThief\bin\Debug\JewelThief.pdb
+c:\users\bdaubney\documents\visual studio 2015\Projects\JewelThief\JewelThief\obj\Debug\MainWindow.baml
+c:\users\bdaubney\documents\visual studio 2015\Projects\JewelThief\JewelThief\obj\Debug\JewelThief.g.resources
+c:\users\bdaubney\documents\visual studio 2015\Projects\JewelThief\JewelThief\obj\Debug\JewelThief.Properties.Resources.resources
+c:\users\bdaubney\documents\visual studio 2015\Projects\JewelThief\JewelThief\obj\Debug\JewelThief.csproj.GenerateResource.Cache
+c:\users\bdaubney\documents\visual studio 2015\Projects\JewelThief\JewelThief\obj\Debug\JewelThief.exe
+c:\users\bdaubney\documents\visual studio 2015\Projects\JewelThief\JewelThief\obj\Debug\JewelThief.pdb
+C:\Users\bdaubney\Desktop\Assesments\CS2S566 Tools For Developers\SupportingMaterial\JewelThief\JewelThief\bin\Debug\JewelThief.exe.config
+C:\Users\bdaubney\Desktop\Assesments\CS2S566 Tools For Developers\SupportingMaterial\JewelThief\JewelThief\obj\Debug\JewelThief.exe
+C:\Users\bdaubney\Desktop\Assesments\CS2S566 Tools For Developers\SupportingMaterial\JewelThief\JewelThief\obj\Debug\JewelThief.pdb
+C:\Users\bdaubney\Desktop\Assesments\CS2S566 Tools For Developers\SupportingMaterial\JewelThief\JewelThief\bin\Debug\JewelThief.exe
+C:\Users\bdaubney\Desktop\Assesments\CS2S566 Tools For Developers\SupportingMaterial\JewelThief\JewelThief\bin\Debug\JewelThief.pdb
+C:\Users\bdaubney\Desktop\Assesments\CS2S566 Tools For Developers\SupportingMaterial\JewelThief\JewelThief\obj\Debug\JewelThief.csprojResolveAssemblyReference.cache
+C:\Users\bdaubney\Desktop\Assesments\CS2S566 Tools For Developers\SupportingMaterial\JewelThief\JewelThief\obj\Debug\MainWindow.g.cs
+C:\Users\bdaubney\Desktop\Assesments\CS2S566 Tools For Developers\SupportingMaterial\JewelThief\JewelThief\obj\Debug\App.g.cs
+C:\Users\bdaubney\Desktop\Assesments\CS2S566 Tools For Developers\SupportingMaterial\JewelThief\JewelThief\obj\Debug\JewelThief_MarkupCompile.cache
+C:\Users\bdaubney\Desktop\Assesments\CS2S566 Tools For Developers\SupportingMaterial\JewelThief\JewelThief\obj\Debug\JewelThief_MarkupCompile.lref
+C:\Users\bdaubney\Desktop\Assesments\CS2S566 Tools For Developers\SupportingMaterial\JewelThief\JewelThief\obj\Debug\MainWindow.baml
+C:\Users\bdaubney\Desktop\Assesments\CS2S566 Tools For Developers\SupportingMaterial\JewelThief\JewelThief\obj\Debug\JewelThief.g.resources
+C:\Users\bdaubney\Desktop\Assesments\CS2S566 Tools For Developers\SupportingMaterial\JewelThief\JewelThief\obj\Debug\JewelThief.Properties.Resources.resources
+C:\Users\bdaubney\Desktop\Assesments\CS2S566 Tools For Developers\SupportingMaterial\JewelThief\JewelThief\obj\Debug\JewelThief.csproj.GenerateResource.Cache
+C:\Users\bdaubney\OneDrive for Business\CS2S566 Tool Development for Computer Games\Assessment 1\JewelThief\JewelThief\bin\Debug\JewelThief.exe.config
+C:\Users\bdaubney\OneDrive for Business\CS2S566 Tool Development for Computer Games\Assessment 1\JewelThief\JewelThief\obj\Debug\JewelThief.exe
+C:\Users\bdaubney\OneDrive for Business\CS2S566 Tool Development for Computer Games\Assessment 1\JewelThief\JewelThief\obj\Debug\JewelThief.pdb
+C:\Users\bdaubney\OneDrive for Business\CS2S566 Tool Development for Computer Games\Assessment 1\JewelThief\JewelThief\obj\Debug\JewelThief.csprojResolveAssemblyReference.cache
+C:\Users\bdaubney\OneDrive for Business\CS2S566 Tool Development for Computer Games\Assessment 1\JewelThief\JewelThief\obj\Debug\MainWindow.g.cs
+C:\Users\bdaubney\OneDrive for Business\CS2S566 Tool Development for Computer Games\Assessment 1\JewelThief\JewelThief\obj\Debug\App.g.cs
+C:\Users\bdaubney\OneDrive for Business\CS2S566 Tool Development for Computer Games\Assessment 1\JewelThief\JewelThief\obj\Debug\JewelThief_MarkupCompile.cache
+C:\Users\bdaubney\OneDrive for Business\CS2S566 Tool Development for Computer Games\Assessment 1\JewelThief\JewelThief\obj\Debug\JewelThief_MarkupCompile.lref
+C:\Users\bdaubney\OneDrive for Business\CS2S566 Tool Development for Computer Games\Assessment 1\JewelThief\JewelThief\bin\Debug\JewelThief.exe
+C:\Users\bdaubney\OneDrive for Business\CS2S566 Tool Development for Computer Games\Assessment 1\JewelThief\JewelThief\bin\Debug\JewelThief.pdb
+C:\Users\bdaubney\OneDrive for Business\CS2S566 Tool Development for Computer Games\Assessment 1\JewelThief\JewelThief\obj\Debug\MainWindow.baml
+C:\Users\bdaubney\OneDrive for Business\CS2S566 Tool Development for Computer Games\Assessment 1\JewelThief\JewelThief\obj\Debug\JewelThief.g.resources
+C:\Users\bdaubney\OneDrive for Business\CS2S566 Tool Development for Computer Games\Assessment 1\JewelThief\JewelThief\obj\Debug\JewelThief.Properties.Resources.resources
+C:\Users\bdaubney\OneDrive for Business\CS2S566 Tool Development for Computer Games\Assessment 1\JewelThief\JewelThief\obj\Debug\JewelThief.csproj.GenerateResource.Cache
+C:\Users\bdaubney\OneDrive\CS2S566 Tool Development for Computer Games\Assesments\CS2S566 Tools For Developers\SupportingMaterial_R\JewelThief\JewelThief\bin\Debug\JewelThief.exe.config
+C:\Users\bdaubney\OneDrive\CS2S566 Tool Development for Computer Games\Assesments\CS2S566 Tools For Developers\SupportingMaterial_R\JewelThief\JewelThief\obj\Debug\JewelThief.exe
+C:\Users\bdaubney\OneDrive\CS2S566 Tool Development for Computer Games\Assesments\CS2S566 Tools For Developers\SupportingMaterial_R\JewelThief\JewelThief\obj\Debug\JewelThief.pdb
+C:\Users\bdaubney\OneDrive\CS2S566 Tool Development for Computer Games\Assesments\CS2S566 Tools For Developers\SupportingMaterial_R\JewelThief\JewelThief\bin\Debug\JewelThief.exe
+C:\Users\bdaubney\OneDrive\CS2S566 Tool Development for Computer Games\Assesments\CS2S566 Tools For Developers\SupportingMaterial_R\JewelThief\JewelThief\bin\Debug\JewelThief.pdb
+C:\Users\bdaubney\OneDrive\CS2S566 Tool Development for Computer Games\Assesments\CS2S566 Tools For Developers\SupportingMaterial_R\JewelThief\JewelThief\obj\Debug\JewelThief.csprojResolveAssemblyReference.cache
+C:\Users\bdaubney\OneDrive\CS2S566 Tool Development for Computer Games\Assesments\CS2S566 Tools For Developers\SupportingMaterial_R\JewelThief\JewelThief\obj\Debug\MainWindow.g.cs
+C:\Users\bdaubney\OneDrive\CS2S566 Tool Development for Computer Games\Assesments\CS2S566 Tools For Developers\SupportingMaterial_R\JewelThief\JewelThief\obj\Debug\App.g.cs
+C:\Users\bdaubney\OneDrive\CS2S566 Tool Development for Computer Games\Assesments\CS2S566 Tools For Developers\SupportingMaterial_R\JewelThief\JewelThief\obj\Debug\JewelThief_MarkupCompile.cache
+C:\Users\bdaubney\OneDrive\CS2S566 Tool Development for Computer Games\Assesments\CS2S566 Tools For Developers\SupportingMaterial_R\JewelThief\JewelThief\obj\Debug\JewelThief_MarkupCompile.lref
+C:\Users\bdaubney\OneDrive\CS2S566 Tool Development for Computer Games\Assesments\CS2S566 Tools For Developers\SupportingMaterial_R\JewelThief\JewelThief\obj\Debug\MainWindow.baml
+C:\Users\bdaubney\OneDrive\CS2S566 Tool Development for Computer Games\Assesments\CS2S566 Tools For Developers\SupportingMaterial_R\JewelThief\JewelThief\obj\Debug\JewelThief.g.resources
+C:\Users\bdaubney\OneDrive\CS2S566 Tool Development for Computer Games\Assesments\CS2S566 Tools For Developers\SupportingMaterial_R\JewelThief\JewelThief\obj\Debug\JewelThief.Properties.Resources.resources
+C:\Users\bdaubney\OneDrive\CS2S566 Tool Development for Computer Games\Assesments\CS2S566 Tools For Developers\SupportingMaterial_R\JewelThief\JewelThief\obj\Debug\JewelThief.csproj.GenerateResource.Cache
